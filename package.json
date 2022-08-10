@@ -1,0 +1,35 @@
+{
+  "name": "@ndcl/mr_mime",
+  "version": "0.0.1",
+  "description": "The only media element you will ever need. ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoteDao/MrMime.git"
+  },
+  "keywords": [
+    "React",
+    "Audio",
+    "Video",
+    "HTML",
+    "Mimetypes"
+  ],
+  "author": "kadajett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoteDao/MrMime/issues"
+  },
+  "homepage": "https://github.com/NoteDao/MrMime#readme",
+  "dependencies": {
+    "@react-three/drei": "^9.20.0",
+    "@react-three/fiber": "^8.3.1",
+    "react": "^18.2.0",
+    "three": "^0.143.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
